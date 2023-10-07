@@ -4,6 +4,9 @@ public class ContaTerminalScanner {
 
     private ContaTerminal contaTerminal;
 
+    /**
+     * Classe com método para a leitura da informações, com o intuito de deixar o main mais enxuto.
+     */
     public ContaTerminalScanner(ContaTerminal contaTerminal) {
       this.contaTerminal = contaTerminal;
     }

@@ -2,6 +2,10 @@ package org.example;
 
 import java.util.Scanner;
 
+/**
+ * Classe com os atributos da Conta, bem como os métodos SET e toSTRING,
+ * para imprimir no console o solicitado no desafio.
+ */
 public class ContaTerminal {
     private int numeroConta;
     private String agencia;
